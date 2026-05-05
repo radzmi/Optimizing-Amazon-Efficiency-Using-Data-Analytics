@@ -25,7 +25,17 @@ To visualize the profitability of different product categories, a bar chart is c
 
 
 
+### Top 15 Area by Quantity
+![description](other/Top-15-Area-by-Quantity.png)
 
+- From the graph above, Los Angeles are the most shipped area followed by San Francisco and Seattle. These three area have significantly more shipping quantity compare to the rest of the area. Amazon should consider Los Angeles as central distribution hub as it has the highest shipping volume. This may yield a better efficiency improvements that could benefit the wider network. Amazon also should invest in better infrastructure in the area that has high quantity.
+
+
+
+
+### Positive Profit by Category
+
+![description](other/Positive-Profit-by-Category.png)
 
 
 The bar chart reveals several important insights:
