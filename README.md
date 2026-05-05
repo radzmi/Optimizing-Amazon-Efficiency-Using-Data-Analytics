@@ -17,7 +17,15 @@ To visualize the profitability of different product categories, a bar chart is c
 
 ### Distribution of Customer Segments
 
-![description](image/Distribution of Customer Segments.png)
+![description](other/Distribution-of-Custome-Segments.png)
+
+1. The silver segment are the largest compare to the others followed by bronze and gold. This shows that a lot of the customers showing moderate engaged segment, with moderate purchases, moderate time of inactivity, and moderate monetary value. This can be a good sign as customer quite frequently spending in the website but not frequent enough. Amazon will need to plan an event such as targeted marketing strategies, loyalty programs that can push this segment to gold segments.
+2. The bronze section could provide insights into what improvements could be made to the product line or customer service experience to increase their RFM scores.
+3. Gold segments indicates customers who shop more recently, more frequently, and have spent more money. This is the customers that Amazon should look to retain for their lifetime as it yield the highest profit for the company.
+
+
+
+
 
 
 The bar chart reveals several important insights:
