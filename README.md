@@ -16,7 +16,8 @@ To visualize the profitability of different product categories, a bar chart is c
 ## Insights from the Data
 
 ### Distribution of Customer Segments
-![image](https://github.com/radzmi/STQD6324_Data_Management_Assigment1/assets/152348714/f6d841a6-7b7b-4d07-b901-2dd849436a1b)
+
+![description](image/Distribution of Customer Segments.png)
 
 
 The bar chart reveals several important insights:
