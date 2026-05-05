@@ -1,4 +1,4 @@
-# Data Management Project 1
+# Optimizing Amazon Efficiency Using Data Analytics
 ![image](https://github.com/radzmi/STQD6324_Data_Management_Assigment1/assets/152348714/f6d841a6-7b7b-4d07-b901-2dd849436a1b)
 
 
